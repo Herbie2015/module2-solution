@@ -28,7 +28,7 @@ h1 {
 .subdivs {
 	float: right;
 	margin: 0px;
-	padding: 3px;
+	padding: 0px;
 	position: relative;
 	bottom: 10px;
 	left: 10px;
